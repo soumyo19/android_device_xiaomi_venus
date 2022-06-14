@@ -15,7 +15,7 @@ $(call inherit-product, device/xiaomi/venus/device.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Rom flags
-RICE_MAINTAINER := Soumyo
+RICE_MAINTAINER := Soumyo•Mumuni
 RICE_OFFICIAL := true
 RICE_DEVICE := Mi 11
 TARGET_HAS_UDFPS := true
